@@ -2,6 +2,8 @@
 
 This repository contains the code to the reimplementation of the paper - How Attentive are Graph Attention Networks (https://arxiv.org/abs/2105.14491)
 
+To view the video demo of this project, refer to the Final Code Demo.mp4 (Click on View Raw to play the video). 
+
 The GATv2 model is tested on the QM-9 dataset and compared with the performance of GAT model that is available by default in Pytorch Geometric.
 
 The model outputs the following graphs proving that GATv2 is in fact better at predicting the QM-9 dataset compared to GAT, confirming the results obtained in the original paper. (Refer the images added)
